@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Lira B. de Souza</h1>
+<h1 align="center">Hi 👋, I'm Lucas Lira</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 💬 Ask me about **Angular, React, NextJS and Nestjs**
