@@ -202,28 +202,6 @@ const lucas = {
 
 ---
 
-## 📊 **Estatísticas GitHub**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LLBGS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LLBGS&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLBGS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-### 🏆 **Atividade GitHub**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LLBGS&custom_title=Contribution%20Activity&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🎯 **Filosofia de Desenvolvimento**
 
 > **"Código limpo não é sobre ser perfeito, é sobre ser compreensível"**
